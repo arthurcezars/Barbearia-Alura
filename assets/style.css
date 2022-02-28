@@ -1,3 +1,17 @@
+/* Configurações gerais */
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+/* Configuração header */
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+/* Configuração do banner */
+
 #banner {
     width: 100%;
 }
@@ -7,10 +21,6 @@
 .principal {
     background-color: #CCCCCC;
     padding: 30px;
-}
-
-h1 {
-    text-align: center;
 }
 
 p {
@@ -30,10 +40,6 @@ p {
 .beneficios {
     background-color: #ffffff;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
