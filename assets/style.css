@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: #CCCCCC;
+}
+
+.paragrafo-nossa-missao {
+    font-size: 20px;
+}
+
+.paragrafo-nossa-missao em strong {
+    color: red;
+}
