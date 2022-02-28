@@ -1,15 +1,52 @@
-* {
+#banner {
+    width: 100%;
+}
+
+/* Configuração da sessão principal */
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+h1 {
     text-align: center;
 }
 
-body {
-    background-color: #CCCCCC;
+p {
+    text-align: center;
 }
 
-.paragrafo-nossa-missao {
+#paragrafo-nossa-missao {
     font-size: 20px;
 }
 
-.paragrafo-nossa-missao em strong {
+#paragrafo-nossa-missao em strong {
     color: red;
+}
+
+/* Configuração da sessão de benefícios */
+
+.beneficios {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
