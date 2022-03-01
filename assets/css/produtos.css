@@ -83,3 +83,17 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+/* Configuração do footer */
+
+footer {
+    text-align: center;
+    background: url("../img/produtos/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
