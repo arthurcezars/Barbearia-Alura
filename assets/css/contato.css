@@ -112,3 +112,25 @@ footer {
     font-size: 13px;
     margin: 20px 0 0;
 }
+
+@media screen and (max-width: 480px) {
+    .caixa, main {
+        width: auto;
+    }
+
+    .caixa h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    main form {
+        padding-left: 2em;
+    }
+
+    main table {
+        margin: 20px auto 40px;
+    }
+}
